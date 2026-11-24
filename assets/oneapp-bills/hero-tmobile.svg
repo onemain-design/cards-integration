@@ -1,0 +1,15 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="89.8034" height="89.8034" viewBox="0 0 89.8034 89.8034" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="merchant-att" clip-path="url(#clip0_0_572)">
+<rect id="bg" width="89.8034" height="89.8034" rx="44.9017" fill="url(#paint0_linear_0_572)"/>
+<path id="path3221" d="M48.647 19.7376H50.0696C59.2578 19.7376 63.5404 24.6529 65.3299 37.7612L68.1751 37.6354L67.7954 16.8381H21.0407L20.5799 37.6354L23.3179 37.7612C23.7921 32.8459 24.3608 30.1987 25.595 27.5516C27.7769 22.6356 32.3304 19.7376 37.9269 19.7376H39.9189V64.9856C39.9189 69.7751 39.6345 71.2878 38.4971 72.4222C37.5479 73.3044 35.6505 73.6825 33.4679 73.6825H31.286V76.7071H57.2799V73.6825H55.0847C52.9162 73.6825 51.0053 73.3036 50.0704 72.4222C48.9322 71.2878 48.6478 69.7744 48.6478 64.9856V19.7376" fill="#EB33A1"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_572" x1="44.9017" y1="0" x2="44.9017" y2="89.8034" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0EBF5"/>
+<stop offset="1" stop-color="#E0EBF5" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_0_572">
+<rect width="89.8034" height="89.8034" fill="white"/>
+</clipPath>
+</defs>
+</svg>
