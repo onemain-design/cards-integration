@@ -2,4 +2,4 @@
 :HL["/cards-integration/_next/static/css/7d5933a6644b9b0b.css","style"]
 :HL["/cards-integration/_next/static/css/5956909aa8c13ca1.css","style"]
 :HL["/cards-integration/_next/static/css/e86d85e7d26ff4f1.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"iImG_yPqI_pD26N11GRlw"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"D4MXl37QffzMM2DI61nCw"}
